@@ -1,0 +1,1 @@
+/home/soup/Projects/rust/ultimatefastblazinglightningrustcalculator/target/debug/ultimatefastblazinglightningrustcalculator: /home/soup/Projects/rust/ultimatefastblazinglightningrustcalculator/src/main.rs
