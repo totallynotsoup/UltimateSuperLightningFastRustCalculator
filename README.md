@@ -9,7 +9,7 @@ Blazing Fast ⚡⚡LIGHTNING⚡⚡ Fast (very fast) And !!!! 100% safe !!!! prog
 2. Go to directory with source code  
 ### !!!! TO PROCEED WITH NEXT STEP YOU WILL NEED TO HAVE ⚙️RUST⚙️ COMPILER INSTALLED
 ### YOU CAN GET MORE INFORMATION ABOUT IT ON OFFICIAL RUST SITE https://www.rust-lang.org !!!!
-3. Run `cargo build` command  
+3. Run `cargo build --release` command  
 
 #### DONE !!!! 🦀🦀🦀🦀🦀🦀🦀🦀
 
